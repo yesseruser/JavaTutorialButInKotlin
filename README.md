@@ -12,7 +12,7 @@ If you have downloaded the *.jar file from the [Releases Page](https://github.co
 3. Press Enter.
 
 ### Homebrew
-To install and run the app using homebrew, download the `homebrew-javatutorinkt.rb` file from the [Releases Page](https://github.com/yesseruser/JavaTutorialButInKotlin/releases). To install, follow these instructions:
-1. Download the `homebrew-javatutorinkt.rb` file.
-2. Run `brew install ~/path/to/downloaded/file.rb` in a terminal. Make sure to change the path to your downloads directory (`~/Downloads/homebrew-javatutorinkt.rb` by default).
+To install and run the app using homebrew, follow these instructions:
+1. Run `brew tap yesser-studios/homebrew-yesserstudios` in a terminal.
+2. Install using `brew install javatutorinkt` in a terminal.
 3. To run the app, run `javatutorinkt` in a terminal.
